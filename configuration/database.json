@@ -1,0 +1,4 @@
+{
+    "connection": "database.db",
+    "migrations": "./persistence/migrations"
+}

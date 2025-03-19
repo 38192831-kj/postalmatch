@@ -1,0 +1,17 @@
+{
+    "url": "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx",
+    "headers": {
+        "Host": "www.correosdemexico.gob.mx",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0",
+        "Origin": "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx",
+        "Referer": "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx",
+        "Connection": "keep-alive"
+    },
+    "body": {
+        "cboEdo": "00",
+        "rblTipo": "txt",
+        "btnDescarga.x": "26",
+        "btnDescarga.y": "8"
+    },
+    "filename": "CPdescarga.txt"
+}
